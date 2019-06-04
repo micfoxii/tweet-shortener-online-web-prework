@@ -1,5 +1,6 @@
 def dictionary
-  hash = { "hello" becomes "hi",
+  hash = { 
+  "hello" => "hi",
   "to" becomes "2"
   "two" becomes "2"
   "too" becomes "2"
