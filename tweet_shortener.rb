@@ -34,7 +34,7 @@ def bulk_tweet_shortener(tweets)
         end
       end
     end
-    tweet_array.join(" ")
+    tweet = tweet_array.join(" ")
     puts tweet 
   end
 end
